@@ -17,7 +17,7 @@ Flashcards is a flashcard-like format that users can then use to study, learn so
 
 [x] Cards have different visual styles based on their category
 
-# Here's how Community Board looks:
+# Here's how Flashcards looks:
 
 <img src="src/assets/Flashcards.gif" title="Flashcards gif" alt="Flashcards gif">
 
