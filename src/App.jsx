@@ -64,9 +64,9 @@ const App = () => {
 
   return (
     <>
-      <h1>Famous dishes from around the world</h1>
+      <h1>Famous dishes from around the world 🌎</h1>
       <h2>How much of a foodie are you?</h2>
-      <h2>Number of Cards: {cards.length}</h2>
+      <h3>Number of Cards: {cards.length}</h3>
       <div className='DifficultyDescription'>
         <h3>Difficulty</h3>
         <ul>
